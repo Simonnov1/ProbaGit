@@ -11,6 +11,7 @@ namespace ProbaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Banán");
+            string u = Console.ReadLine();
         }
     }
 }
